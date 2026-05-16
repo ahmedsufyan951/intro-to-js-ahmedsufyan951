@@ -35,7 +35,7 @@ function isPalindrome(str) {
  * @returns {number[]} A new array containing only the even numbers from the original array.
  */
 function filterEvenNumbers(numbers) {
-  return numbers.filter(num => num % 2 === 0);
+  return numbers.filter( num => num % 2 === 0);
 }
 
 
